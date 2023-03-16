@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Libre+Baskerville:wght@400;700&display=swap');
+.nav-link {
+  margin-right: 15px;
+  color: #d4d4d4;
+  letter-spacing: 0.5px;
+  transition: 0.5s;
+  font-family:'Libre Baskerville',serif; 
+  font-size:18px;
+}
+.navbar-brand {
+  color: #66b8d4;
+  letter-spacing: 0.5px;
+  font-family:'Libre Baskerville',serif; 
+  font-size: 22px;
+  font-style: bold;
+}
+
